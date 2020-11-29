@@ -9,6 +9,6 @@ end
 
 
 def list_dwarves(array)
-  
+  array.each_with_index(*args) { |obj, i| block } → enumclick to 
     
 end
