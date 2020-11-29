@@ -8,6 +8,6 @@ end
  
 
 
-def 
+def list_dwarves(array)
     
 end
