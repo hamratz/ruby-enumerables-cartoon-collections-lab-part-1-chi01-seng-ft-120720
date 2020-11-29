@@ -1,7 +1,7 @@
 def greet_characters(array)
   
-  oppressed_workers.each do |oppressed_worker|
-   puts "#{oppressed_worker.capitalize} wants to start a union!"
+  array.each do |dwarf|
+   puts "#Hello {dwarf.capitalize} wants to start a union!"
 end
   # Use `each` to enumerate over the provided array
   #
