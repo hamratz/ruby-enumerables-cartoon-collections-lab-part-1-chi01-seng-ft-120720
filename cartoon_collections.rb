@@ -1,7 +1,7 @@
 def greet_characters(array)
   
-  array.each do |dwarf|
-   puts "#Hello {dwarf.capitalize} wants to start a union!"
+  array.each do |character|
+   puts "Hello #{character} !"
 end
   # Use `each` to enumerate over the provided array
   #
