@@ -10,7 +10,6 @@ end
   # Print a custom greeting for each element
 end
 
-def list_dwarves(array)
-  array.each_with_index do |dwarf|
+def 
     
 end
