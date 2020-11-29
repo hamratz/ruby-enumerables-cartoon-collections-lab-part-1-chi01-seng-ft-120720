@@ -9,8 +9,8 @@ end
 
 
 def list_dwarves(array)
-  array.each_with_index do | dwarf, 1 |
-    puts "#{1}#{dwarf}"
+  array.each_with_index do | dwarf, index |
+    puts "#{index}#{dwarf}"
 end
 
 end
